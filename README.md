@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **HyunwooKoh/HyunwooKoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### DKU Software Engineering 2017 ~
+### Aloys Software Lab 2020.07.20 ~
