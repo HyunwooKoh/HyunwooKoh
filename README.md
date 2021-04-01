@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### DKU Software Engineering 2017 ~
-### Aloys Software Lab 2020.07 ~ 2021.01
+### Aloys Software Lab 2020.07 ~ 2021.02
 ### Epapyrus Software Lab 2021.02 ~
