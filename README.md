@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 ### DKU Software Engineering 2017 ~
 ### Aloys Software Lab, Platform Engineer 2020.07 ~ 2021.02
-### Epapyrus Software Lab, , Core Engineer 2021.02 ~
+### Epapyrus Software Lab, Core Engineer 2021.02 ~
