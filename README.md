@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 ### python (automation script, build script, etc...)
 ### javaScript (electron, node)
 ### Docker (build, release, compose, etc...)
+### innosetup5 (package builder)
