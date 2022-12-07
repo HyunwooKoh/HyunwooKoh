@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 ### C# (ActiveX, cefSharp)
 ### Java (Android Platform, Java 17, spring boot)
 ### python (automation script, build script, etc...)
-### javaScript (electron)
+### javaScript (electron, node)
 ### Docker (build, release, compose, etc...)
