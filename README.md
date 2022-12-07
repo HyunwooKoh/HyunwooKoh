@@ -13,7 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# About Me.
 ### [Velog😄](https://velog.io/@hwo_o)
 ### DKU Software Engineering 2017 ~
 ### Aloys Software Lab, Platform Engineer 2020.07 ~ 2021.02
 ### Epapyrus Software Lab, Core Engineer 2021.02 ~
+
+<br/>
+
+# tech stack
+### C++ (VC9, C++ 17, QT framework)
+### C# (ActiveX, cefSharp)
+### Java (Android Platform, Java 17, spring boot)
+### python (automation script, build script, etc...)
+### javaScript (electron)
+### Docker (build, release, compose, etc...)
