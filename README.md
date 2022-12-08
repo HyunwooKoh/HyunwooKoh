@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <br/>
 
 # tech stack
-### C++ (VC9, C++ 17, QT framework)
+### C++ (VC9, C++ 17, QT, MFC)
 ### C# (ActiveX, cefSharp)
 ### Java (Android Platform, Java 17, spring boot)
 ### python (automation script, build script, etc...)
