@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 InnoSetup5
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/trghyunwoo)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=trghyunwoo)](https://solved.ac/trghyunwoo)
